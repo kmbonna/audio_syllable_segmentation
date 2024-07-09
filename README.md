@@ -4,7 +4,7 @@
 
 This project is designed to segment audio into syllables. It follows a series of steps from transcription to segmentation and concatenation, resulting in a syllable-segmented audio file.
 
-## Features
+## Steps
 
 - **Audio Transcription**: Uses OpenAI's Whisper model to transcribe audio.
 - **Audio Preprocessing**: Sets boundaries for audio metrics such as sample rate, bit rate, and padding.
